@@ -16,7 +16,7 @@ local.properties
 .loadpath
 
 # Eclipse Core
-#.project #Project name issues
+#.project #Commented to avoid Eclipse project issues
 
 # External tool builders
 .externalToolBuilders/
@@ -28,7 +28,7 @@ local.properties
 .cproject
 
 # JDT-specific (Eclipse Java Development Tools)
-.classpath
+#.classpath #Commented to allow proper project import in Eclipse
 
 # Java annotation processor (APT)
 .factorypath
